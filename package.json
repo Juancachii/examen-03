@@ -1,14 +1,10 @@
 {
-  "name": "crud_familia",
-  "version": "1.0.0",
-  "description": "CRUD de familia hecho por un estudiante",
-  "main": "src/app.js",
-  "type": "module",
-  "scripts": {
-    "start": "node src/app.js"
-  },
-  "dependencies": {
-    "express": "^4.19.2",
-    "mysql2": "^3.10.0"
-  }
+    
+    "nombre":"examen03",
+    "vercion":"1.0.0",
+    "descripcion":"Programa que muestra la serie Fibonacci segun la cantidad de numeros que ingrese el usuario",
+    "archivoPrincipal":"index.js",
+    "tipe":"module",
+    "autor":"Alumno universitario",
+    "licencia":"MIT"
 }
